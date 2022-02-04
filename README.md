@@ -13,8 +13,8 @@
 </ul>
 
 <h2> Imagem do projeto </h2>
-<img src="./imagens/cronometro.png"style="height: 400px">
 <img src="./imagens/cronometro.gif"style="height: 400px">
+<img src="./imagens/cronometro.png"style="height: 400px">
 
 <h2>Pré-requisitos</h2>
 <p>Antes de começar, você vai precisar ter instalado as seguintes ferramentas:</p>
