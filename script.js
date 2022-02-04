@@ -20,7 +20,7 @@ function start() {
       sec = 0;
     }
 
-    if (min == 59) {
+    if (min == 60) {
       hora++;
       min = 0;
     }
