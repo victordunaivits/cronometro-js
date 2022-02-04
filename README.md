@@ -1,8 +1,8 @@
-<h1 align="center">Cronometro</h1>
+<h1 align="center">Cronômetro</h1>
 
 <br>
 
-<h1>Projeto de tela de login.</h1>
+<h1>Projeto - Cronômetro</h1>
 <p>Em construção... 🚀</p>
 
 <h2>Tecnologias utilizadas</h2>
@@ -13,7 +13,7 @@
 </ul>
 
 <h2> Imagem do projeto </h2>
-<img src=""style="height: 400px">
+<img src="https://prnt.sc/26osz5x"style="height: 400px">
 <img src=""style="height: 400px">
 
 <h2>Pré-requisitos</h2>
